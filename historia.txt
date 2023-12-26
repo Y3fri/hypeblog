@@ -10,7 +10,7 @@ buenasssssss
 
 soy pc2
 
-
+ alias arbolito="git log --all --graph --decorate --oneline"
 master1
 
-master2
+
