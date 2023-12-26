@@ -1,2 +1,4 @@
+
 # hypeblog
-un blog para practicar git y guthub
+un blog para practicar git y github
+* holaaaa
